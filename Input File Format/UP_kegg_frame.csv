@@ -1,0 +1,4 @@
+category,subcategory,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count,order
+Environmental Information Processing,Signaling molecules and interaction,hsa04060,Cytokine-cytokine receptor interaction,9/117,298/8875,0.030201342,2.290913784,2.619918839,0.016736884,0.265000656,0.256925844,7293/268/3554/93/2920/5618/8795/3590/3581,9,Cytokine-cytokine receptor interaction
+Cellular Processes,Cell motility,hsa04814,Motor proteins,7/117,197/8875,0.035532995,2.6953447,2.78119523,0.015205656,0.262643148,0.254640171,343521/64837/80022/4648/90990/7169/127602,7,Motor proteins
+Human Diseases,Infectious disease: parasitic,hsa05146,Amoebiasis,5/117,103/8875,0.048543689,3.682267032,3.164619393,0.011484236,0.218200492,0.211551723,1282/1284/3554/2335/2920,5,Amoebiasis
