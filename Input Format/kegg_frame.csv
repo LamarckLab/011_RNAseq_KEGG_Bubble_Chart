@@ -1,0 +1,6 @@
+﻿category,subcategory,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count,order
+Environmental Information Processing,Signal transduction,hsa04350,TGF-beta signaling pathway,8/188,108/8542,0.074074074,3.365642238,3.711335325,0.002558501,0.202121573,0.201089196,353500/3399/93/4093/2200/4091/56963/268,8,TGF-beta signaling pathway
+Cellular Processes,Cell motility,hsa04814,Motor proteins,10/188,197/8542,0.050761421,2.306404579,2.782810842,0.011609236,0.458564813,0.456222599,55582/4648/4636/7169/29895/4430/90990/343521/80022/127602,10,Motor proteins
+Cellular Processes,Cellular community - eukaryotes,hsa04520,Adherens junction,6/188,93/8542,0.064516129,2.93136582,2.809243668,0.016466472,0.53306569,0.530342947,5797/83439/2260/4636/29895/54922,6,Adherens junction
+Organismal Systems,Digestive system,hsa04977,Vitamin digestion and absorption,3/188,26/8542,0.115384615,5.242635025,3.250053953,0.01880207,0.53306569,0.530342947,8029/81693/9963,3,Vitamin digestion and absorption
+Metabolism,Lipid metabolism,hsa00591,Linoleic acid metabolism,3/188,30/8542,0.1,4.543617021,2.916605222,0.027545145,0.604852201,0.601762794,8681/100137049/1571,3,Linoleic acid metabolism
