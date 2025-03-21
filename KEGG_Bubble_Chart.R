@@ -39,7 +39,7 @@ p <- ggplot(kegg_frame, aes(x = GeneRatio, y = order)) +
     labels = c("0.02", "0.06", "0.10", "0.14")
   ) +
   
-  # ✅ 大小刻度 + 手动设置气泡实际大小（range 控制视觉大小）
+  # 小刻度 + 手动设置气泡实际大小（range 控制视觉大小）
   scale_size_continuous(
     name = "Gene Count",
     breaks = c(4, 8, 12),
